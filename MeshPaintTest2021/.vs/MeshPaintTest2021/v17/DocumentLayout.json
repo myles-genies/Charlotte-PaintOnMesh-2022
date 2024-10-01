@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charl\\OneDrive\\Documents\\UnityProjects\\MeshPaintTest2021\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20BEBB6A-7A1D-0DEE-BA17-5BD5CA592134}|Assembly-CSharp.csproj|C:\\Users\\charl\\OneDrive\\Documents\\UnityProjects\\MeshPaintTest2021\\assets\\tattooenator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BEBB6A-7A1D-0DEE-BA17-5BD5CA592134}|Assembly-CSharp.csproj|solutionrelative:assets\\tattooenator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BEBB6A-7A1D-0DEE-BA17-5BD5CA592134}|Assembly-CSharp.csproj|c:\\users\\charl\\onedrive\\documents\\unityprojects\\meshpainttest2021\\assets\\drawonmeshrenderpassfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BEBB6A-7A1D-0DEE-BA17-5BD5CA592134}|Assembly-CSharp.csproj|solutionrelative:assets\\drawonmeshrenderpassfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BEBB6A-7A1D-0DEE-BA17-5BD5CA592134}|Assembly-CSharp.csproj|c:\\users\\charl\\onedrive\\documents\\unityprojects\\meshpainttest2021\\assets\\uvprojectenator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BEBB6A-7A1D-0DEE-BA17-5BD5CA592134}|Assembly-CSharp.csproj|solutionrelative:assets\\uvprojectenator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BEBB6A-7A1D-0DEE-BA17-5BD5CA592134}|Assembly-CSharp.csproj|C:\\Users\\charl\\OneDrive\\Documents\\UnityProjects\\MeshPaintTest2021\\assets\\drawshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20BEBB6A-7A1D-0DEE-BA17-5BD5CA592134}|Assembly-CSharp.csproj|solutionrelative:assets\\drawshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UVProjectenator.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Documents\\UnityProjects\\MeshPaintTest2021\\Assets\\UVProjectenator.cs",
+              "RelativeDocumentMoniker": "Assets\\UVProjectenator.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Documents\\UnityProjects\\MeshPaintTest2021\\Assets\\UVProjectenator.cs",
+              "RelativeToolTip": "Assets\\UVProjectenator.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T23:04:18.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrawOnMeshRenderPassFeature.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Documents\\UnityProjects\\MeshPaintTest2021\\Assets\\DrawOnMeshRenderPassFeature.cs",
+              "RelativeDocumentMoniker": "Assets\\DrawOnMeshRenderPassFeature.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Documents\\UnityProjects\\MeshPaintTest2021\\Assets\\DrawOnMeshRenderPassFeature.cs",
+              "RelativeToolTip": "Assets\\DrawOnMeshRenderPassFeature.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:42:45.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tattooenator.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Documents\\UnityProjects\\MeshPaintTest2021\\Assets\\Tattooenator.cs",
+              "RelativeDocumentMoniker": "Assets\\Tattooenator.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Documents\\UnityProjects\\MeshPaintTest2021\\Assets\\Tattooenator.cs",
+              "RelativeToolTip": "Assets\\Tattooenator.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:56:43.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DrawShader.shader",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Documents\\UnityProjects\\MeshPaintTest2021\\Assets\\DrawShader.shader",
+              "RelativeDocumentMoniker": "Assets\\DrawShader.shader",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Documents\\UnityProjects\\MeshPaintTest2021\\Assets\\DrawShader.shader",
+              "RelativeToolTip": "Assets\\DrawShader.shader",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-09-04T04:35:53.384Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
